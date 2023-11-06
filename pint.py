@@ -1,0 +1,10 @@
+a=int(input("enter a number:-"))
+b=int(input("Enter the value of b:-"))
+temp=0
+print("after swap a=",a)
+print("after swap a=",b)
+temp=a
+a=b
+b=temp
+print("before swap a=",a)
+print("before swap b=",b)
